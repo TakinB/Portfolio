@@ -4,7 +4,7 @@ Skills used: React, JavaScript, HTML, CSS
 
 To start run:
 
-gatsby build
+gatsby build <br />
 gatsby develop
-
+<br />
 Initial theme credit to: [`@lekoarts/gatsby-theme-emma`].
